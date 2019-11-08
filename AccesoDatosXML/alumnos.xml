@@ -1,5 +1,4 @@
-<?xml version="1.0"?>
-<listadealumnos>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><listadealumnos>
    <alumno>	
 	<nombre>Juan</nombre>
 	<edad>19</edad>
@@ -12,4 +11,4 @@
 	<nombre>Francisco</nombre>
 	<edad>26</edad>
    </alumno>			
-</listadealumnos>
+<alumno><nombre>Probando desde java</nombre><edad>46</edad></alumno><alumno><nombre>Fue un exito</nombre><edad>32</edad></alumno></listadealumnos>
